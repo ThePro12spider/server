@@ -2,7 +2,7 @@
     "blaster_common": {
         "clipSize": 12,
         "reloadTime": 1900,
-        "damage": 20,
+        "damage": 2000,
         "radius": 0.2,
         "distance": 10,
         "speed": 0.0125
@@ -10,7 +10,7 @@
     "blaster_uncommon": {
         "clipSize": 16,
         "reloadTime": 1900,
-        "damage": 23,
+        "damage": 230,
         "radius": 0.2,
         "distance": 10,
         "speed": 0.0125
